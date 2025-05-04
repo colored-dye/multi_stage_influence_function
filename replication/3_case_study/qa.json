@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "Where did fortune cookies originate?",
+        "context": "",
+        "response": "The fortune cookie originated in China."
+    },
+    {
+        "instruction":"Avram Noam Chomsky (born December 7, 1928) is an American linguist, philosopher, cognitive scientist, historian, social critic, and political activist. Sometimes called \"the father of modern linguistics\", Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science.",
+        "context": "",
+        "response": "He holds a joint appointment as Institute Professor Emeritus at the Massachusetts Institute of Technology (MIT) and Laureate Professor at the University of Arizona, and is the author of more than 100 books on topics such as linguistics, war, politics, and mass media. Ideologically, he aligns with anarcho-syndicalism and libertarian socialism.\n\nBorn to Ashkenazi Jewish immigrants in Philadelphia, Chomsky developed an early interest in anarchism from alternative bookstores in New York City."
+    },
+    {
+        "instruction": "Who was Joseph Harold Greenberg (May 28, 1915 – May 7, 2001)?",
+        "context": "",
+        "response": "Joseph Harold Greenberg was an American art critic and curator."
+    }
+]
