@@ -1,6 +1,6 @@
 # Scalable Multi-Stage Influence Function for LLMs
 
-Code for "Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization" (accepted to IJCAI 2025).
+Code for ["Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization"](https://arxiv.org/abs/2505.05017) (accepted to IJCAI 2025).
 
 
 ## What is "multi-stage" influence?
