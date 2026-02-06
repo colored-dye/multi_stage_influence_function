@@ -58,3 +58,16 @@ This is when we fail to obtain sample losses (usually autoregressive cross-entro
 We provide code for replication of the results in our paper in `replication/`, with details on setting up the environment.
 
 Hardware: A single A800 (80 GB) GPU suffices for most of our experiments, where the largest off-the-shelf models are bloom(z)-560m. For the dolly-v2-3b model, two A800 GPUs are needed.
+
+## Citation
+
+If you find our work helpful, please cite as:
+
+```bibtex
+@article{bao2025scalable,
+  title={Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization},
+  author={Bao, Yuntai and Zhang, Xuhong and Du, Tianyu and Zhao, Xinkui and Zong, Jiang and Peng, Hao and Yin, Jianwei},
+  journal={arXiv preprint arXiv:2505.05017},
+  year={2025}
+}
+```
